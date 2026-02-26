@@ -1,2 +1,3 @@
-# .github
-homepage
+# the karpfen project
+
+> Work in progress.
