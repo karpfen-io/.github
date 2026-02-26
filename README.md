@@ -1,3 +1,3 @@
-# the karpfen project
+# the karpfen project github homepage
 
-> Work in progress.
+go to ``profile/README.md``
